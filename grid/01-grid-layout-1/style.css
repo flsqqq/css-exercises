@@ -48,7 +48,7 @@ html {
     column-gap: 15px;
     row-gap: 15px;
     background-color: #393f4d;
-    grid-column: span 3;
+    grid-area: 4 / 1 / 5 / 4;
 }
 
 .article p {
